@@ -2,7 +2,7 @@
 layout: post
 title:  "Learning recursion through a minimal interpreted programming language"
 date:   2022-11-16 17:30:00 -0700
-categories: jekyll update
+tags: recursion interpreter parser cpp
 ---
 I think one of the more common (and interesting) practical use-cases for recursion is to solve a class of problems involving parsing/interpreting/compiling text.
 
